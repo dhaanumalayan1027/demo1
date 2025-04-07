@@ -1814,6 +1814,7 @@ background-color: rgb(12, 12, 94);
 .pag5head1
 {
 	width: 50%;
+	display: grid;
 	justify-items: center;
 }
 .pag5the1
@@ -1862,6 +1863,7 @@ background-color: rgb(12, 12, 94);
 }
 .pag5the3
 {
+	display: grid;
 	flex-direction: column;
 }
 .pag5the03
