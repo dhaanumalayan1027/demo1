@@ -2043,14 +2043,14 @@ background-color: rgb(12, 12, 94);
 	}
 	.pag5head2
 	{
-		width: 70%;
+		width: 100%;
 		margin-top: 30px;
 		display: grid;
 		justify-items: center;
 	}
 	.pag5the3
 	{
-		width: 100%;
+		width: 70%;
 	}
 	.pag5the05
 	{
