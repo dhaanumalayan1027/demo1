@@ -2028,12 +2028,12 @@ background-color: rgb(12, 12, 94);
 	}
 	.pag5head1
 	{
-		width: 100%;
+		width: 70%;
 	}
 	.pag5the1
 	{
 		height: 95vh;
-		width: 70%;
+		width: 100%;
 		background-image: url("img-3.jpg");
 		background-size: cover;
 	}
@@ -2043,14 +2043,12 @@ background-color: rgb(12, 12, 94);
 	}
 	.pag5head2
 	{
-		width: 100%;
+		width: 70%;
 		margin-top: 30px;
-		display: grid;
-		justify-items: center;
 	}
 	.pag5the3
 	{
-		width: 70%;
+		width: 100%;
 	}
 	.pag5the05
 	{
