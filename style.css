@@ -1,3 +1,4 @@
+
 *
 {
 	margin: 0;
@@ -1859,11 +1860,13 @@ background-color: rgb(12, 12, 94);
 }
 .pag5head2
 {
-	width: 48%;
+	width: 50%;
+	display: grid;
+	justify-items: center;
 }
 .pag5the3
 {
-	width: 100%
+	width: 90%;
 }
 .pag5the03
 {
@@ -2022,13 +2025,12 @@ background-color: rgb(12, 12, 94);
 {
 	.page5
 	{
-		display: grid;
 		flex-direction: column;
 		align-items: center;
 	}
 	.pag5head1
 	{
-		width: 70%;
+		width: 80%;
 	}
 	.pag5the1
 	{
@@ -2039,11 +2041,11 @@ background-color: rgb(12, 12, 94);
 	}
 	.pag5the2
 	{
-		width: 70%;
+		width: 80%;
 	}
 	.pag5head2
 	{
-		width: 70%;
+		width: 80%;
 		margin-top: 30px;
 	}
 	.pag5the3
@@ -2111,27 +2113,32 @@ background-color: rgb(12, 12, 94);
 {
 	.page5
 	{
-		display: grid;
 		flex-direction: column;
 		align-items: center;
 	}
+	.pag5head1
+	{
+		width: 80%;
+	}
 	.pag5the1
 	{
-		height: 50vh;
-		width: 80%;
+		height: 95vh;
+		width: 100%;
 		background-image: url("img-3.jpg");
 		background-size: cover;
 	}
 	.pag5the2
 	{
-		width: 70%;
-		display: flex;	
-		align-items: center;
-		background-color: rgb(12, 12, 94);
-		color: white;
-		padding: 0;
-		margin-top: -10vh;
-		margin-left: 5%;
+		width: 80%;
+	}
+	.pag5head2
+	{
+		width: 80%;
+		margin-top: 30px;
+	}
+	.pag5the3
+	{
+		width: 100%;
 	}
 	.pag5the03
 	{
