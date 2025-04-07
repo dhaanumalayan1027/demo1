@@ -952,6 +952,7 @@ background-color: rgb(12, 12, 94);
 	border: 1px solid white;
 	background-color: rgb(12, 12, 94);
 	text-align: center;
+	display: grid;
 	align-content: space-evenly;
 }
 .pag4the01-1
@@ -974,6 +975,7 @@ background-color: rgb(12, 12, 94);
 	border: 1px solid white;
 	background-color: rgb(12, 12, 94);
 	text-align: center;
+	display: grid;
 	align-content: space-evenly;
 }
 .pag4the02-1
@@ -1002,6 +1004,7 @@ background-color: rgb(12, 12, 94);
 	border: 1px solid white;
 	background-color: rgb(12, 12, 94);
 	text-align: center;
+	display: grid;
 	align-content: space-evenly;
 }
 .pag4the03-1
@@ -1024,6 +1027,7 @@ background-color: rgb(12, 12, 94);
 	border: 1px solid white;
 	background-color: rgb(12, 12, 94);
 	text-align: center;
+	display: grid;
 	align-content: space-evenly;
 }
 .pag4the04-1
